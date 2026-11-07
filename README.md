@@ -1,6 +1,6 @@
 ### Hi there, I'm Dhruvank 👋
 
-I am a passionate software developer specializing in building modern web applications, inventory management systems, and responsive user interfaces.  
+I am a passionate software developer specializing in building modern web applications, inventory management systems, and responsive user interfaces. 
 
 ---
 
